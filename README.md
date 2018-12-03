@@ -1,3 +1,4 @@
 # dz60
-Materials Relating to DZ60 Keyboard Build
+
+Desired layout:
 <img src="keyboard-layout.png">
